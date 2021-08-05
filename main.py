@@ -2,6 +2,8 @@ import discord
 import dotenv
 import sys
 import os
+import requests
+import json
 
 client = discord.Client()
 
